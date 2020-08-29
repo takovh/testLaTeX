@@ -1,0 +1,43 @@
+% 导言区
+\documentclass{ctexart}
+
+% \usepackage{ctex}
+% ========设置标题的格式========
+\ctexset{
+    section = {
+        format+ = \zihao{-4} \heiti \raggedright,
+        name = {,、},
+        number = \chinese{section},
+        beforeskip = 1.0ex plus 0.2ex minus .2ex,
+        afterskip = 1.0ex plus 0.2ex minus .2ex,
+        aftername = \hspace{0pt}
+    },
+    subsection = {
+        format+ = \zihao{5} \heiti \raggedright,
+        % name={\thesubsection、},
+        name = {,、},
+        number = \arabic{subsection},
+        beforeskip = 1.0ex plus 0.2ex minus .2ex,
+        afterskip = 1.0ex plus 0.2ex minus .2ex,
+        aftername = \hspace{0pt}
+    }
+}
+
+% 正文区
+\begin{document}
+    \section{引言}
+    近年来，随着逆向工程和三维重建技术的发展和应用，获取现实世界中物体的三维数据
+    的方法越来越多的关注和研究，很多研究机构和商业公司都陆续推出了自己的三维重建系统。
+
+    近年来，随着逆向工程和三维重建技术的发展和应用，\\获取现实世界中物体的三维数据
+    的方法越来越多的关注和研究，\par 很多研究机构和商业公司都陆续推出了自己的三维重建系统。
+    \section{实验方法}
+    \section{实验结果}
+    \subsection{数据}
+    \subsection{图表}
+    \subsubsection{实验条件}
+    \subsubsection{实验过程}
+    \subsection{结果分析}
+    \section{结论}
+    \section{致谢}
+\end{document}

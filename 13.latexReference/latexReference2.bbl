@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{mittelbach2004}
+Frank Mittelbach and Michel Goossens.
+\newblock {\em The {{ \LaTeX }} Companion}.
+\newblock Tools and Techniques for Computer Typesetting. Addison-Wesley,
+  Boston, second edition, 2004.
+
+\bibitem{patashnik1988designing}
+Oren Patashnik.
+\newblock Designing bibtex styles, 1988.
+
+\bibitem{LaTeX排版的若干策略与技巧}
+刘桐言, 张慧, and 杜心悦.
+\newblock Latex排版的若干策略与技巧.
+\newblock {\em 电脑知识与技术}, 15(33):255--256,267, 12 2019.
+
+\bibitem{使用LaTeX软件开展编辑工作的一些经验}
+李鹏.
+\newblock 使用latex软件开展编辑工作的一些经验.
+\newblock {\em 新闻研究导刊}, 10(9):180,251, 6 2019.
+
+\bibitem{应用LaTeX系统规范本科毕业论文的优势}
+毛华荣 and 李勇.
+\newblock 应用latex系统规范本科毕业论文的优势.
+\newblock {\em 百科知识}, (18):46,56, 8 2019.
+
+\end{thebibliography}
